@@ -2,6 +2,8 @@
 
 **Untangle puzzler — drag pins until no strand crosses another.**
 
+**▶️ [Play it live in your browser](https://zfryrgnci.github.io/Twist-out/)** — a fully playable untangle puzzler built with pure HTML5 Canvas. Works on desktop and mobile.
+
 ---
 
 ## About
